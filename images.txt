@@ -1,1 +1,1 @@
-nocodb/nocodb:0.265.1
+redis/redis-stack:7.4.0-v8
