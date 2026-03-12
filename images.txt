@@ -1,3 +1,1 @@
-node:22-bookworm
-node:22-bookworm-slim
-debian:bookworm-slim
+docker/dockerfile:1.7
