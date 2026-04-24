@@ -1,1 +1,3 @@
-docker/dockerfile:1.7
+postgres:15-alpine
+headscale/headscale:latest
+caddy:latest
