@@ -1,1 +1,1 @@
-ghcr.io/gurucomputing/headscale-ui:latest
+postgres:15.4
