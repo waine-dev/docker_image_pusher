@@ -1,2 +1,2 @@
---platform=linux/arm64 halohub/halo:2.24
---platform=linux/arm64 postgres:15.4
+--platform=linux/amd64 mysql:5.6.44
+--platform=linux/amd64 atlassian/jira-software:7.13.0
